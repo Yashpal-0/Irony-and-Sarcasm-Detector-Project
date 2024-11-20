@@ -1,2 +1,4 @@
 data/
 *.zip
+trained_rcnn_distil_roberta/
+trained_rcnn_tiny_roberta/
